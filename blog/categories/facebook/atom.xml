@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Facebook | Ryan Paulsen]]></title>
-  <link href="http://rpaulsen.github.com/blog/categories/facebook/atom.xml" rel="self"/>
-  <link href="http://rpaulsen.github.com/"/>
-  <updated>2012-02-08T02:01:58-05:00</updated>
-  <id>http://rpaulsen.github.com/</id>
+  <link href="http://www.ryanpaulsen.com/blog/categories/facebook/atom.xml" rel="self"/>
+  <link href="http://www.ryanpaulsen.com/"/>
+  <updated>2012-02-09T00:58:55-05:00</updated>
+  <id>http://www.ryanpaulsen.com/</id>
   <author>
     <name><![CDATA[Ryan Paulsen]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mobile Apps &amp; Services]]></title>
-    <link href="http://rpaulsen.github.com/blog/2010/05/05/mobile-apps-and-services/"/>
+    <link href="http://www.ryanpaulsen.com/blog/2010/05/05/mobile-apps-and-services/"/>
     <updated>2010-05-05T01:29:00-04:00</updated>
-    <id>http://rpaulsen.github.com/blog/2010/05/05/mobile-apps-and-services</id>
+    <id>http://www.ryanpaulsen.com/blog/2010/05/05/mobile-apps-and-services</id>
     <content type="html"><![CDATA[<p>I was looking through some files while cleaning up my computer and stubled upon some
 of the projects I did for Georgia Tech’s mobile applications and services class.
 The class consisted of three 3-week projects where groups worked to create mobile
@@ -39,6 +39,11 @@ we couldn’t get it working cross-platform.</p>
 
 
 <p><a href="http://vimeo.com/11199913">Mobile Apps & Services: Project 3</a> from <a href="http://vimeo.com/therpaulsen">Ryan Paulsen</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+
+
+
+<!-- more -->
 
 
 <h2>Project 2: GTLocate</h2>
